@@ -8,3 +8,5 @@ bevy = { version = "0.15.0" }
 bevy_egui = "0.31.1"
 clap = { version = "4.5.23", features = ["derive"] }
 image = { version = "0.25.5" }
+rand = "0.8.5"
+time = "0.3.37"
